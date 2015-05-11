@@ -1,0 +1,23 @@
+{
+  "name": "peerweb",
+  "version": "1.0.0",
+  "description": "Precisit peerweb prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/precisit/peerweb.git"
+  },
+  "author": "",
+  "dependencies": {
+    "drag-drop": "^2.0.1",
+    "webtorrent": "precisit/webtorrent"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/precisit/peerweb/issues"
+  },
+  "homepage": "https://github.com/precisit/peerweb"
+}
