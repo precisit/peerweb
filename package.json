@@ -13,6 +13,7 @@
   "author": "",
   "dependencies": {
     "drag-drop": "^2.0.1",
+    "event-stream": "^3.3.1",
     "webtorrent": "precisit/webtorrent"
   },
   "license": "ISC",
